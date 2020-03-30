@@ -1,0 +1,15 @@
+{
+    "name": "tkpss-iot",
+    "version": "0.1.5",
+    "description": "mqtt communication to makercloud with kittenbot's wifi module",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts"
+    ],
+    "public": true,
+    "preferredEditor": "tsprj"
+}
